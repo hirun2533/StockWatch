@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="error_accessing_data">Error accessing data</string>
+    <string name="click_to_re_check_network_status">Click to Re-Check Network Status</string>
+    <string name="connected">You ARE Connected to the Internet!</string>
+    <string name="not_connected">You are NOT Connected to the Internet!</string>
+</resources>
